@@ -1,4 +1,4 @@
-package org.learnwithllew.week6;
+package org.learnwithllew.week6_unused;
 
 import org.apache.commons.lang3.StringUtils;
 import org.approvaltests.Approvals;
